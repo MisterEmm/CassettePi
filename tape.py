@@ -130,10 +130,8 @@ def tapewindow():
             for x in range(0, 11):
                 matrix11x7.pixel(x, y, matrix1[y, x])
 
-
         matrix11x7.show()
         time.sleep(0.4)
-        
 
         for y in range(0, 7): 
             for x in range(0, 11):
@@ -141,7 +139,6 @@ def tapewindow():
 
         matrix11x7.show()
         time.sleep(0.4)
-        
 
         for y in range(0, 7): 
             for x in range(0, 11):
@@ -149,7 +146,6 @@ def tapewindow():
 
         matrix11x7.show()
         time.sleep(0.4)
-        
 
         for y in range(0, 7): 
             for x in range(0, 11):
@@ -157,7 +153,6 @@ def tapewindow():
 
         matrix11x7.show()
         time.sleep(0.4)
-        
 
         for y in range(0, 7): 
             for x in range(0, 11):
@@ -179,7 +174,6 @@ def tapewindow():
 
         matrix11x7.show()
         time.sleep(0.4)
-        
 
         for y in range(0, 7): 
             for x in range(0, 11):
@@ -187,7 +181,6 @@ def tapewindow():
 
         matrix11x7.show()
         time.sleep(0.4)
-        
 
         for y in range(0, 7): 
             for x in range(0, 11):
