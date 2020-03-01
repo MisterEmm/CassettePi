@@ -7,7 +7,7 @@ For more information on the project you can view the writeups...
 
 Instructables: https://www.instructables.com/id/Cassette-Pi-IoT-Scroller
 
-Hackster:
+Hackster: https://www.hackster.io/martin-mander/cassette-pi-iot-scroller-cb3d3f
 
 ...or see the project in action:
 
