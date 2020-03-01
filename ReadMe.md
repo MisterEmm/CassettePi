@@ -5,10 +5,10 @@ This project takes incoming data from an Adafruit.io feed and displays it on a P
 
 For more information on the project you can view the writeups...
 
-Instructables:
+Instructables: https://www.instructables.com/id/Cassette-Pi-IoT-Scroller
 
 Hackster:
 
 ...or see the project in action:
 
-YouTube: 
+YouTube: https://youtu.be/kgY40e9mi8w
